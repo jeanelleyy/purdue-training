@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/jtanhuec/purdue-training/static/css/main.0fbf70f9.chunk.css",
+    "main.js": "/jtanhuec/purdue-training/static/js/main.8234298d.chunk.js",
+    "main.js.map": "/jtanhuec/purdue-training/static/js/main.8234298d.chunk.js.map",
+    "runtime-main.js": "/jtanhuec/purdue-training/static/js/runtime-main.24e2ae07.js",
+    "runtime-main.js.map": "/jtanhuec/purdue-training/static/js/runtime-main.24e2ae07.js.map",
+    "static/css/2.f1b50ea8.chunk.css": "/jtanhuec/purdue-training/static/css/2.f1b50ea8.chunk.css",
+    "static/js/2.11b7c7a6.chunk.js": "/jtanhuec/purdue-training/static/js/2.11b7c7a6.chunk.js",
+    "static/js/2.11b7c7a6.chunk.js.map": "/jtanhuec/purdue-training/static/js/2.11b7c7a6.chunk.js.map",
+    "index.html": "/jtanhuec/purdue-training/index.html",
+    "precache-manifest.e0bb9e1b5d935f6a4911700ee6d482f9.js": "/jtanhuec/purdue-training/precache-manifest.e0bb9e1b5d935f6a4911700ee6d482f9.js",
+    "service-worker.js": "/jtanhuec/purdue-training/service-worker.js",
+    "static/css/2.f1b50ea8.chunk.css.map": "/jtanhuec/purdue-training/static/css/2.f1b50ea8.chunk.css.map",
+    "static/css/main.0fbf70f9.chunk.css.map": "/jtanhuec/purdue-training/static/css/main.0fbf70f9.chunk.css.map",
+    "static/js/2.11b7c7a6.chunk.js.LICENSE.txt": "/jtanhuec/purdue-training/static/js/2.11b7c7a6.chunk.js.LICENSE.txt",
+    "static/media/B16_1_0.png": "/jtanhuec/purdue-training/static/media/B16_1_0.15af9236.png",
+    "static/media/B1_1_2.png": "/jtanhuec/purdue-training/static/media/B1_1_2.60a9a0fc.png",
+    "static/media/B2_34_2.png": "/jtanhuec/purdue-training/static/media/B2_34_2.0f0244d2.png",
+    "static/media/B36_7_0.png": "/jtanhuec/purdue-training/static/media/B36_7_0.c59779ea.png",
+    "static/media/B65_8_1.png": "/jtanhuec/purdue-training/static/media/B65_8_1.67e13e94.png",
+    "static/media/Objects.png": "/jtanhuec/purdue-training/static/media/Objects.42714596.png",
+    "static/media/blue.jpg": "/jtanhuec/purdue-training/static/media/blue.89643ea9.jpg",
+    "static/media/green.jpg": "/jtanhuec/purdue-training/static/media/green.e4064255.jpg",
+    "static/media/red.jpg": "/jtanhuec/purdue-training/static/media/red.e368df29.jpg",
+    "static/media/yellow.jpg": "/jtanhuec/purdue-training/static/media/yellow.0fc15a3f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.24e2ae07.js",
+    "static/css/2.f1b50ea8.chunk.css",
+    "static/js/2.11b7c7a6.chunk.js",
+    "static/css/main.0fbf70f9.chunk.css",
+    "static/js/main.8234298d.chunk.js"
+  ]
+}
